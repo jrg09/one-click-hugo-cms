@@ -7,3 +7,5 @@ image: img/about-direct-sourcing.jpg
 ## es una prueba 
 
 desde mi iPad, funciono **muy rápido** y todo automáticamente.
+
+editado desde github.
