@@ -1,11 +1,9 @@
 ---
-title: Prueba
+title: Instalación de blog com Hugo
 date: 2023-07-27T02:03:59.379Z
-description: "Desde mi iPad "
+description: Aspectos importantes que ví para la instalación del blog Hugo.
 image: img/about-direct-sourcing.jpg
 ---
-## es una prueba 
+### Renovacion del dominio
+Renove por un año el dominio jrg9.com con namecheap.com
 
-desde mi iPad, funciono **muy rápido** y todo automáticamente.
-
-editado desde github.
